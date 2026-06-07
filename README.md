@@ -21,9 +21,6 @@ A computer graphics simulation of a traditional Bangladeshi cattle market (Gorur
 3. Link OpenGL libraries
 4. Build and Run
 
-## Screenshots
-(Add images here)
-
 ## Project done by
 - Sadia Rahman Niha
 
